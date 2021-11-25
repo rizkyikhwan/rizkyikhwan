@@ -16,26 +16,26 @@
 <img src="https://user-images.githubusercontent.com/79355239/143455396-08754238-ba05-4388-b372-785bafd7aafd.png" alt="bootstrap" width="40" height="40"/>
 </span>&nbsp;&nbsp;&nbsp;
 <span>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="margin-left: 15px;" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 </span>&nbsp;&nbsp;&nbsp;
 <span>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="margin-left: 15px;" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </span>
 <span>&nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="margin-left: 15px;" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </span>
 
 <h3>Tech Stack</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="margin-left: 10px;" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="margin-left:15px;" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="margin-left: 15px;" width="40" 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" 
   height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="margin-left: 15px;" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/79355239/143469399-00cdf2f3-7485-4dd1-a2aa-4281d0f31dd1.png" alt="npm" style="margin-left: 15px;" width="50" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" style="margin-left: 15px;" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" style="margin-left: 15px;" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/79355239/143469399-00cdf2f3-7485-4dd1-a2aa-4281d0f31dd1.png" alt="npm" width="50" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
 </p>
 
 <hr>
