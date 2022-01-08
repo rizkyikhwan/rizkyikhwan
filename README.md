@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizky Ikhwan</h1>
-<h3 align="center">Someone who want to be a Frontend Developer from Indonesia</h3>
+<h3 align="center">Someone who want to be a Frontend Developer based in Indonesia</h3>
 
 ![bedroom](https://user-images.githubusercontent.com/79355239/143467976-43e524a2-c3cd-47cb-a3e5-6a8ed0bc4a69.gif)
 
