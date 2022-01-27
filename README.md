@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rizky Ikhwan</h1>
-<h3 align="center">Someone who want to be a Frontend Developer based in Indonesia</h3>
+<h3 align="center">Someone who want to be a Frontend Developer</h3>
 
 ![bedroom](https://user-images.githubusercontent.com/79355239/143467976-43e524a2-c3cd-47cb-a3e5-6a8ed0bc4a69.gif)
 
 <p>I'm currently a student majoring in Information System.</p>
 
-- 📖 I’m currently learning **Nuxtjs**
+- 📖 I’m currently learning **Nuxtjs** & **Tailwind CSS**
 
 - 💬 Ask me about Something wants you know
 
@@ -28,16 +28,16 @@
 </span>
 
 <h3>Tech Stack</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="32px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="32px" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="32px" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="32px" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="32px" />&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/79355239/143469399-00cdf2f3-7485-4dd1-a2aa-4281d0f31dd1.png" alt="npm" height="32px" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="32px" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" height="32px" />
-</p>
+
+![html5](https://user-images.githubusercontent.com/79355239/151290703-69deb652-edd6-426d-a23f-adc6d4b41fdb.svg)&nbsp;&nbsp;
+![css3](https://user-images.githubusercontent.com/79355239/151290701-52f6b597-6639-442c-9b02-98cda610e613.svg)&nbsp;&nbsp;
+![javascript](https://user-images.githubusercontent.com/79355239/151290689-1e8de89e-fa0e-4198-ac3c-481f4813895a.svg)&nbsp;&nbsp;
+![bootstrap](https://user-images.githubusercontent.com/79355239/151290700-9dea719b-198c-44ca-9057-ed0179897e7c.svg)&nbsp;&nbsp;
+![sass](https://user-images.githubusercontent.com/79355239/151290694-057a1bb1-15d8-4987-906e-86f4c73a866d.svg)&nbsp;&nbsp;
+![tailwindcss](https://user-images.githubusercontent.com/79355239/151290695-c85258c4-c5e0-4bf0-aac0-fcdaa082ec38.svg)&nbsp;&nbsp;
+![npm](https://user-images.githubusercontent.com/79355239/151290690-197d5ed7-a766-4664-a138-062e6ecd56d1.svg)&nbsp;&nbsp;
+![vuejs](https://user-images.githubusercontent.com/79355239/151290696-8bb7394d-d320-4c99-abdf-69559daf3508.svg)&nbsp;&nbsp;
+![nuxtjs](https://user-images.githubusercontent.com/79355239/151290692-9202dae1-866d-4aad-afd5-524e931007e7.svg)&nbsp;&nbsp;
 
 <hr>
 
