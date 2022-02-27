@@ -5,7 +5,7 @@
 
 <p>I'm currently a student majoring in Information System.</p>
 
-- 📖 I’m currently learning **Nuxtjs**
+- 📖 I’m currently learning **ReactJS**
 
 - 💬 Ask me about Something wants you know
 
@@ -38,6 +38,7 @@
 ![npm](https://user-images.githubusercontent.com/79355239/151290690-197d5ed7-a766-4664-a138-062e6ecd56d1.svg)&nbsp;&nbsp;
 ![vuejs](https://user-images.githubusercontent.com/79355239/151290696-8bb7394d-d320-4c99-abdf-69559daf3508.svg)&nbsp;&nbsp;
 ![nuxtjs](https://user-images.githubusercontent.com/79355239/151290692-9202dae1-866d-4aad-afd5-524e931007e7.svg)&nbsp;&nbsp;
+![react-js](https://user-images.githubusercontent.com/79355239/155885287-c2677b52-6057-4036-9614-ed6db38ee962.svg)&nbsp;&nbsp;
 
 <hr>
 
