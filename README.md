@@ -14,31 +14,27 @@
 - 👨‍💻 All of my projects are available at **[Here](https://rizkyikhwan.my.id/work)**
 
 <h3 align="left">Tools</h3>
-<span>
-<img src="https://user-images.githubusercontent.com/79355239/143455396-08754238-ba05-4388-b372-785bafd7aafd.png" alt="bootstrap" height="32px" />
-</span>&nbsp;&nbsp;&nbsp;
-<span>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="32px" />
-</span>&nbsp;&nbsp;&nbsp;
-<span>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="32px" />
-</span>
-<span>&nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="32px" />
-</span>
+<img height="32px" align="left" src="https://user-images.githubusercontent.com/79355239/143455396-08754238-ba05-4388-b372-785bafd7aafd.png" alt="bootstrap" />
+<img height="32px" align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
+<img height="32px" align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
+<img height="32px" align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
+
+<br>
 
 <h3>Tech Stack</h3>
 
-![html5](https://user-images.githubusercontent.com/79355239/151290703-69deb652-edd6-426d-a23f-adc6d4b41fdb.svg)&nbsp;&nbsp;
-![css3](https://user-images.githubusercontent.com/79355239/151290701-52f6b597-6639-442c-9b02-98cda610e613.svg)&nbsp;&nbsp;
-![javascript](https://user-images.githubusercontent.com/79355239/151290689-1e8de89e-fa0e-4198-ac3c-481f4813895a.svg)&nbsp;&nbsp;
-![bootstrap](https://user-images.githubusercontent.com/79355239/151290700-9dea719b-198c-44ca-9057-ed0179897e7c.svg)&nbsp;&nbsp;
-![sass](https://user-images.githubusercontent.com/79355239/151290694-057a1bb1-15d8-4987-906e-86f4c73a866d.svg)&nbsp;&nbsp;
-![tailwindcss](https://user-images.githubusercontent.com/79355239/151290695-c85258c4-c5e0-4bf0-aac0-fcdaa082ec38.svg)&nbsp;&nbsp;
-![npm](https://user-images.githubusercontent.com/79355239/151290690-197d5ed7-a766-4664-a138-062e6ecd56d1.svg)&nbsp;&nbsp;
-![vuejs](https://user-images.githubusercontent.com/79355239/151290696-8bb7394d-d320-4c99-abdf-69559daf3508.svg)&nbsp;&nbsp;
-![nuxtjs](https://user-images.githubusercontent.com/79355239/151290692-9202dae1-866d-4aad-afd5-524e931007e7.svg)&nbsp;&nbsp;
-![react-js](https://user-images.githubusercontent.com/79355239/155885287-c2677b52-6057-4036-9614-ed6db38ee962.svg)&nbsp;&nbsp;
+<img height="30px" align="left" src="https://user-images.githubusercontent.com/79355239/151290703-69deb652-edd6-426d-a23f-adc6d4b41fdb.svg" alt="html5" />
+<img height="30px" align="left" src="https://user-images.githubusercontent.com/79355239/151290701-52f6b597-6639-442c-9b02-98cda610e613.svg" alt="css3" />
+<img height="30px" align="left" src="https://user-images.githubusercontent.com/79355239/151290689-1e8de89e-fa0e-4198-ac3c-481f4813895a.svg" alt="javascript" />
+<img height="30px" align="left" src="https://user-images.githubusercontent.com/79355239/151290700-9dea719b-198c-44ca-9057-ed0179897e7c.svg" alt="bootstrap" />
+<img height="30px" align="left" src="https://user-images.githubusercontent.com/79355239/151290694-057a1bb1-15d8-4987-906e-86f4c73a866d.svg" alt="sass" />
+<img height="30px" align="left" src="https://user-images.githubusercontent.com/79355239/151290695-c85258c4-c5e0-4bf0-aac0-fcdaa082ec38.svg" alt="tailwindcss" />
+<img height="30px" align="left" src="https://user-images.githubusercontent.com/79355239/151290690-197d5ed7-a766-4664-a138-062e6ecd56d1.svg" alt="npm" />
+<img height="30px" align="left" src="https://user-images.githubusercontent.com/79355239/151290696-8bb7394d-d320-4c99-abdf-69559daf3508.svg" alt="vuejs" />
+<img height="30px" align="left" src="https://user-images.githubusercontent.com/79355239/151290692-9202dae1-866d-4aad-afd5-524e931007e7.svg" alt="nuxtjs" />
+<img height="30px" align="left" src="https://user-images.githubusercontent.com/79355239/155885287-c2677b52-6057-4036-9614-ed6db38ee962.svg" alt="react.js" />
+
+<br>
 
 <hr>
 
