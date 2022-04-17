@@ -5,7 +5,7 @@
 
 <p>I'm currently a student majoring in Information System.</p>
 
-- 📖 I’m currently learning **ReactJS & MERN Stack**
+- 📖 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about Something wants you know
 
