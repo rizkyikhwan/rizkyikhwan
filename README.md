@@ -49,7 +49,6 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://instagram.com/rizkykhwan_" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizkykhwan_" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/rizkyikhwan" target="blank" style="margin-left: 2px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizkyikhwan" height="30" width="40" /></a>
 </p>
 <p align="center" style="margin-top: 15px;">
