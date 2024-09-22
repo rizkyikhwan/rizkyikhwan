@@ -51,6 +51,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/rizkyikhwan" target="blank" style="margin-left: 2px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizkyikhwan" height="30" width="40" /></a>
 </p>
-<p align="center" style="margin-top: 15px;">
+<!-- <p align="center" style="margin-top: 15px;">
   <img src="https://lanyard-profile-readme.vercel.app/api/387982324630945802" />
-</p>
+</p> -->
