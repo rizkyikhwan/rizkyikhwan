@@ -9,7 +9,7 @@
 
 - 📫 How to reach me with email **rizkyikhwan.ri@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[Here](https://rizkyikhwan.my.id/work)**
+- 👨‍💻 All of my projects are available at **[Here](https://rizkyikhwan.my.id)**
 
 <h3 align="left">Tools</h3>
 <img height="32px" align="left" src="https://user-images.githubusercontent.com/79355239/143455396-08754238-ba05-4388-b372-785bafd7aafd.png" alt="bootstrap" />
